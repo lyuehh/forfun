@@ -6,8 +6,6 @@
 # /movie/ -> /forfun/movie/
 # href="/" -> href="/forfun/"
 
-cd _site
-
 files=`find . -name "*.html"`
 
 for i in $files; do
