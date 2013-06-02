@@ -1,12 +1,12 @@
 ---
 layout: post
-title: 44部卡通电影
-date: 2013-06-02 15:30
+title: 银幕上最有钱的50个电影角色
+date: 2013-06-02 17:30
 comments: true
 categories: movie
 ---
 
-<script src="/js/44_carton.js" type="text/javascript"></script>  
+<script src="/js/50_money.js" type="text/javascript"></script>  
 
 <div ng-app="app">
   <div class="container">
