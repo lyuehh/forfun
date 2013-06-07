@@ -15,6 +15,7 @@
 
         <!-- Custom CSS -->
         <link rel="stylesheet" href="/forfun/css/main.css">
+        <link media="all" href="/forfun/css/d3_style.css" type="text/css" rel="stylesheet" />
 
     </head>
     <body>
@@ -39,7 +40,7 @@
   <div class="container">
     <div ng-controller="mainCtrl">
       <div class='m' ng-repeat="m in movies">
-        <h3 ng-bind-template='{{m.Title}}'></h3>
+        <h3 ng-bind-template=''></h3>
         <div ng-bind-html-unsafe='m.Content'></div>
       </div>
     </div>
@@ -68,6 +69,7 @@
             </div>
           </div>
         </div> <!-- /container -->
+        
 
     </body>
 </html>
