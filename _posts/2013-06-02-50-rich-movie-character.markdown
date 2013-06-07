@@ -6,7 +6,8 @@ comments: true
 categories: movie
 ---
 
-<script src="/js/50_money.js" type="text/javascript"></script>  
+<script src="/js/50_money.js" type="text/javascript"></script>
+
 
 <div ng-app="app">
   <div class="container">
