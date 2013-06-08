@@ -13,8 +13,13 @@ body {
   /* display: none; */
 }
 
-.line {
+.send {
   fill: none;
   stroke: steelblue;
   stroke-width: 1.5px;
+}
+.receive {
+    fill: none;
+    stroke: red;
+    stroke-width: 1px;
 }

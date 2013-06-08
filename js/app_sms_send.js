@@ -75,17 +75,70 @@ d3.json("/forfun/js/sms_send.json", function(error, data) {
   }));
 
 
-  svg.append("g")
+  if(!d3.select('.axis')[0][0]) {
+    svg.append("g")
     .attr("class", "x axis")
     .attr("transform", "translate(0," + height + ")")
     .call(xAxis);
 
-  svg.append("g")
+    svg.append("g")
     .attr("class", "y axis")
     .call(yAxis);
+  }
 
   svg.append("path")
     .datum(ad)
-    .attr("class", "line")
+    .attr("class", "send")
     .attr("d", line);
+
+  d3.select('.tips').remove();
+});
+
+d3.json("/forfun/js/sms_receive.json", function(error, data) {
+  data.forEach(function(d) {
+    d.date = parseDate(d.date);
+  });
+
+  var allDays = d3.time.days(new Date(2011,0,1), new Date(2013,6,1), 1);
+  var allDaysData = [];
+  var ad = [];
+  window.allDays = allDays;
+  window.data = data;
+  window.allDaysData = allDaysData;
+  window.ad = ad;
+  for (var i = allDays.length - 1; i >= 0; i--) {
+    ad.push({date: allDays[i], count: 0});
+  }
+
+  _.each(ad, function(d1) {
+    _.each(data, function(d2) {
+      if(d1.date.getFullYear() === d2.date.getFullYear() && d1.date.getMonth() === d2.date.getMonth() && d1.date.getDate() === d2.date.getDate()) {
+        d1.count = d2.count;
+      }
+    });
+  });
+
+  x.domain([d3.time.format('%Y-%m').parse('2011-01'), d3.time.format('%Y-%m').parse('2013-06')]);
+  y.domain(d3.extent(ad, function(d) {
+    return d.count;
+  }));
+
+  if(!d3.select('.axis')[0][0]) {
+    svg.append("g")
+    .attr("class", "x axis")
+    .attr("transform", "translate(0," + height + ")")
+    .call(xAxis);
+
+    svg.append("g")
+    .attr("class", "y axis")
+    .call(yAxis);
+  }
+
+
+  svg.append("path")
+    .datum(ad)
+    .attr("class", "receive")
+    .attr("d", line);
+
+    d3.select('.tips').remove();
 });
