@@ -1,17 +1,20 @@
 ---
 layout: post
-title: 2011-2013发短信记录的线形图
+title: 2011-2013收发短信记录的线形图
 date: 2013-06-07 17:30
 comments: true
 categories: life
 ---
 
 
-下面的线形图是我2011.1到2013.5发短信的记录，其中删掉了很多发给10010和10086的，可能还漏了一些其他有意或无意删掉的。  
+下面的线形图是我2011.1到2013.5收发短信的记录，其中删掉了很多发给10010和10086的，可能还漏了一些其他有意或无意删掉的。  
 如果看不到那个图的话那是你的浏览器不支持。。。如果想看到那个图的话请用firefox, chrome, opera, ie9等其他浏览器。  
+蓝色是发送的，红色是收到的。。
+
 
 <script src="/js/d3.v3.js"></script>
 <script src="/js/underscore-1.4.3.js"></script>
 
-<div class='here'></div>
+<div class="tips">耐心等待。。。</div>
+<div class="here"></div>
 <script src="/js/app_sms_send.js" type="text/javascript"></script>
