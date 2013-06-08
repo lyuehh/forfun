@@ -12,6 +12,12 @@ for i in $files; do
   sed -i '' 's/\/js\//\/forfun\/js\//g' $i
   sed -i '' 's/\/css\//\/forfun\/css\//g' $i
   sed -i '' 's/\/movie\//\/forfun\/movie\//g' $i
+  sed -i '' 's/\/life\//\/forfun\/life\//g' $i
   sed -i '' 's/href=\"\/\"/href=\"\/forfun\/\"/g' $i
 done
 
+js_files=`find . -name "*.js"`
+
+for i in $js_files; do
+  sed -i '' 's/\/js\//\/forfun\/js\//g' $i
+done
