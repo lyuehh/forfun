@@ -1,3 +1,4 @@
 name: Fun of life
 pygments: true
 markdown: rdiscount
+baseurl: /forfun

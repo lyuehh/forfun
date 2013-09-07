@@ -6,7 +6,7 @@ comments: true
 categories: movie
 ---
 
-<script src="/js/25_robot.js" type="text/javascript"></script>
+<script src="/forfun/js/25_robot.js" type="text/javascript"></script>
 
 
 <div ng-app="app">
