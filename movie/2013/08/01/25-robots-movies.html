@@ -23,8 +23,8 @@
         <div class="container">
           <div class="site">
             <div class="header">
-              <h1 class="title"><a href="/forfun/">Fun of life</a></h1>
-              <a class="extra" href="/forfun/">home</a>
+              <h1 class="title"><a href="/forfun/index.html">Fun of life</a></h1>
+              <a class="extra" href="/forfun/index.html">home</a>
             </div>
      
                 <h2>机器人电影票房TOP25</h2>
@@ -40,7 +40,7 @@
   <div class="container">
     <div ng-controller="mainCtrl">
       <div class='m' ng-repeat="m in movies">
-        <h3 ng-bind-template='{{ m.Title }}'></h3>
+        <h3 ng-bind-template=''></h3>
         <div ng-bind-html-unsafe='m.Content'></div>
       </div>
     </div>
@@ -69,7 +69,5 @@
             </div>
           </div>
         </div> <!-- /container -->
-        
-
     </body>
 </html>

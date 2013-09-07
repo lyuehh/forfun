@@ -23,15 +23,15 @@
         <div class="container">
           <div class="site">
             <div class="header">
-              <h1 class="title"><a href="/forfun/">Fun of life</a></h1>
-              <a class="extra" href="/forfun/">home</a>
+              <h1 class="title"><a href="/forfun/index.html">Fun of life</a></h1>
+              <a class="extra" href="/forfun/index.html">home</a>
             </div>
      
                 <h2>最佳英美剧TOP101</h2>
 <p class="meta">24 Jun 2013</p>
 
 <div id="post">
-<script src="/forfun/js/101_drama.js" type="text/javascript"></script>
+<script src="/js/101_drama.js" type="text/javascript"></script>
 
 
 
@@ -40,7 +40,7 @@
   <div class="container">
     <div ng-controller="mainCtrl">
       <div class='m' ng-repeat="m in movies">
-        <h3 ng-bind-template='{{ m.Title }}'></h3>
+        <h3 ng-bind-template=''></h3>
         <div ng-bind-html-unsafe='m.Content'></div>
       </div>
     </div>
@@ -69,7 +69,5 @@
             </div>
           </div>
         </div> <!-- /container -->
-        
-
     </body>
 </html>
