@@ -1,11 +1,14 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>forfun by lyuehh</title>
+  <title>{{ page.title }}</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- Bootstrap -->
-    <link href="css/bootstrap.min.css" rel="stylesheet" media="screen">
-    <link media="all" href="css/style.css" type="text/css" rel="stylesheet" />
+    <link href="/forfun/css/bootstrap.min.css" rel="stylesheet" media="screen">
+    <link media="all" href="/forfun/css/d3_style.css" type="text/css" rel="stylesheet" />
+    <link media="all" href="/forfun/css/style.css" type="text/css" rel="stylesheet" />
+    <script src="/forfun/js/angular.js" type="text/javascript"></script>
+    <script src="/forfun/js/app.js" type="text/javascript"></script>
 
     <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!--[if lt IE 9]>
@@ -19,8 +22,8 @@
             <div class="col-md-10 col-md-offset-2">
                 <nav class="navbar" role="navigation">
                     <ul class="nav nav-pills pull-right">
-                        <li><a href="/forfun/index.html">Home</a></li>
-                        <li class="active"><a href="/forfun/about.html">About</a></li>
+                        <li class="active"><a href="/forfun/index.html">Home</a></li>
+                        <li><a href="/forfun/about.html">About</a></li>
                     </ul>
                 </nav>
             </div>
@@ -28,16 +31,17 @@
         <div class="row">
             <div class="col-md-2"></div>
             <div class="col-md-8">
-                hahah
+                <ul class="posts">
+                    {{ content }}
+                </ul>
             </div>
             <div class="col-md-2"></div>
         </div>
     </div>
 
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
-    <script src="//code.jquery.com/jquery.js"></script>
+    <script src="http://cdn.staticfile.org/jquery/2.0.3/jquery.min.js"></script>
     <!-- Include all compiled plugins (below), or include individual files as needed -->
-    <script src="js/bootstrap.min.js"></script>
+    <script src="/forfun/js/bootstrap.min.js"></script>
   </body>
 </html>
-

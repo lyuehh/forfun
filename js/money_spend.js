@@ -44,8 +44,8 @@ var line = d3.svg.line()
 var svg = d3.select(".here").append("svg")
   .attr("width", width + margin.left + margin.right)
   .attr("height", height + margin.top + margin.bottom)
-  .append("g")
-  .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+  .append("g");
+  //.attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
 
 d3.csv("/forfun/js/money2012_2013.csv", function(error, data) {
