@@ -6,7 +6,7 @@ comments: true
 categories: movie
 ---
 
-<script src="/forfun/js/50_super_hero.js" type="text/javascript"></script>
+<script src="/js/50_super_hero.js" type="text/javascript"></script>
 
 
 <div ng-app="app">

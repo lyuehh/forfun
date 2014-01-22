@@ -11,9 +11,9 @@ categories: life
 如果看不到那个图的话那是你的浏览器不支持。。。如果想看到那个图的话请用firefox, chrome, opera, ie9等其他浏览器。  
 发现2011.1 ~ 2012.9之间的通话记录都没了，我也不知道为什么。。。没了就没了吧。。  
 
-<script src="/forfun/js/d3.v3.js"></script>
-<script src="/forfun/js/underscore-1.4.3.js"></script>
+<script src="/js/d3.v3.js"></script>
+<script src="/js/underscore-1.4.3.js"></script>
 
 <div class="tips">耐心等待。。。</div>
 <div class="here"></div>
-<script src="/forfun/js/app_calllog.js" type="text/javascript"></script>
+<script src="/js/app_calllog.js" type="text/javascript"></script>

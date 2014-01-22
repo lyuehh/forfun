@@ -6,7 +6,7 @@ comments: true
 categories: life
 ---
 
-<script src="/forfun/js/100_stars.js" type="text/javascript"></script>
+<script src="/js/100_stars.js" type="text/javascript"></script>
 
 <div ng-app="app">
   <div class="container">

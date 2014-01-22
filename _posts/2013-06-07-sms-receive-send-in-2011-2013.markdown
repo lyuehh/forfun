@@ -12,9 +12,9 @@ categories: life
 蓝色是发送的，红色是收到的。。
 
 
-<script src="/forfun/js/d3.v3.js"></script>
-<script src="/forfun/js/underscore-1.4.3.js"></script>
+<script src="/js/d3.v3.js"></script>
+<script src="/js/underscore-1.4.3.js"></script>
 
 <div class="tips">耐心等待。。。</div>
 <div class="here"></div>
-<script src="/forfun/js/app_sms_send.js" type="text/javascript"></script>
+<script src="/js/app_sms_send.js" type="text/javascript"></script>

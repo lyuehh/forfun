@@ -6,7 +6,7 @@ comments: true
 categories: movie
 ---
 
-<script src="/forfun/js/44_carton.js" type="text/javascript"></script>  
+<script src="/js/44_carton.js" type="text/javascript"></script>  
 
 <div ng-app="app">
   <div class="container">
