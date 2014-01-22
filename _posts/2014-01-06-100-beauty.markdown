@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 2013最具价值百大明星榜
-date: 2013-10-27 18:18
+title: 2013全球最美面孔
+date: 2014-01-06 18:18
 comments: true
 categories: life
 ---
@@ -14,7 +14,6 @@ categories: life
       <div class='m' ng-repeat="m in movies">
         <h3 ng-bind-template='{{ m.Title }}'></h3>
         <div ng-bind-html-unsafe='m.Content'></div>
-        <img ng-src="MiddlePicUrl">
       </div>
     </div>
   </div>
