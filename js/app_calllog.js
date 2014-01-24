@@ -45,7 +45,7 @@ var svg = d3.select(".here").append("svg")
   //.attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
 
-d3.json("/forfun/js/calllog.json", function(error, data) {
+d3.json("/js/calllog.json", function(error, data) {
   data.forEach(function(d) {
     d.date = parseDate(d.date);
   });
