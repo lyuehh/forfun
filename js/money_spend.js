@@ -48,7 +48,7 @@ var svg = d3.select(".here").append("svg")
   //.attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
 
-d3.csv("/forfun/js/money2012_2013.csv", function(error, data) {
+d3.csv("/js/money2012_2013.csv", function(error, data) {
   data.forEach(function(d) {
     d.date = parseDate(d.date);
     d.money = parseFloat(d.money);
