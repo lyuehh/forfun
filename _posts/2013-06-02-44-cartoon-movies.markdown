@@ -12,7 +12,9 @@ categories: movie
   <div class="container">
     <div ng-controller="mainCtrl">
       <div class='m' ng-repeat="m in movies">
+        {% raw %}
         <h3 ng-bind-template='{{ m.Title }}'></h3>
+        {% endraw %}
         <div ng-bind-html-unsafe='m.Content'></div>
       </div>
     </div>
