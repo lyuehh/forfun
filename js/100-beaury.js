@@ -5,7 +5,8 @@ var data = [
     "Content": "",
     "Url": "http://news.mtime.com/pix/2014/01/01/416329.html",
     "SmallPicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/165949.39325874_75X75.jpg",
-    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/165949.39325874_160X160.jpg"
+    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/165949.39325874_160X160.jpg",
+    "quniuPic": "http://lyuehh-img.qiniudn.com/FtqmRKGd1FZa4zKQ3YtwY5v_ICBK"
   },
   {
     "ID": 416184,
@@ -13,7 +14,8 @@ var data = [
     "Content": "“维多利亚的秘密”超模，《变形金刚3》女主角。",
     "Url": "http://news.mtime.com/pix/2014/01/01/416184.html",
     "SmallPicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162652.23483887_75X75.jpg",
-    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162652.23483887_160X160.jpg"
+    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162652.23483887_160X160.jpg",
+    "quniuPic": "http://lyuehh-img.qiniudn.com/FpnrN88JNPQUCcnvtGYBhNd-8mgQ"
   },
   {
     "ID": 416185,
@@ -21,7 +23,8 @@ var data = [
     "Content": "日本演员、歌手。",
     "Url": "http://news.mtime.com/pix/2014/01/01/416185.html",
     "SmallPicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162654.77480348_75X75.jpg",
-    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162654.77480348_160X160.jpg"
+    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162654.77480348_160X160.jpg",
+    "quniuPic": "http://lyuehh-img.qiniudn.com/FqmoSOGxu-BRbrZ-qkAG7TIzq4Q6"
   },
   {
     "ID": 416186,
@@ -29,7 +32,8 @@ var data = [
     "Content": "代表作《黑影》。",
     "Url": "http://news.mtime.com/pix/2014/01/01/416186.html",
     "SmallPicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162656.92317786_75X75.jpg",
-    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162656.92317786_160X160.jpg"
+    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162656.92317786_160X160.jpg",
+    "quniuPic": "http://lyuehh-img.qiniudn.com/FnwUTRvtRELRnvCeYmHyHT4fBOzN"
   },
   {
     "ID": 416187,
@@ -37,7 +41,8 @@ var data = [
     "Content": "美国童星，先出演电视剧《凯莉日记》。",
     "Url": "http://news.mtime.com/pix/2014/01/01/416187.html",
     "SmallPicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162658.62024019_75X75.jpg",
-    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162658.62024019_160X160.jpg"
+    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162658.62024019_160X160.jpg",
+    "quniuPic": "http://lyuehh-img.qiniudn.com/Fr7J7uawxVP4t2Qlk68NSI_I6ROf"
   },
   {
     "ID": 416188,
@@ -45,7 +50,8 @@ var data = [
     "Content": "美剧明星，代表作：《斯巴达克斯》《绿箭侠》。",
     "Url": "http://news.mtime.com/pix/2014/01/01/416188.html",
     "SmallPicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162700.59935903_75X75.jpg",
-    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162700.59935903_160X160.jpg"
+    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162700.59935903_160X160.jpg",
+    "quniuPic": "http://lyuehh-img.qiniudn.com/FqTQ7TgoXsrIKjazw6bVyyhirz2H"
   },
   {
     "ID": 416189,
@@ -53,7 +59,8 @@ var data = [
     "Content": "意大利籍的模特、演员。",
     "Url": "http://news.mtime.com/pix/2014/01/01/416189.html",
     "SmallPicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162701.25808126_75X75.jpg",
-    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162701.25808126_160X160.jpg"
+    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162701.25808126_160X160.jpg",
+    "quniuPic": "http://lyuehh-img.qiniudn.com/FgvUmSJ463iFxEKXnOItYLUiqMBz"
   },
   {
     "ID": 416190,
@@ -61,7 +68,8 @@ var data = [
     "Content": "2002年因FashionziVoguegirl标志模特儿而出道的韩国艺人。",
     "Url": "http://news.mtime.com/pix/2014/01/01/416190.html",
     "SmallPicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162703.70551532_75X75.jpg",
-    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162703.70551532_160X160.jpg"
+    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162703.70551532_160X160.jpg",
+    "quniuPic": "http://lyuehh-img.qiniudn.com/Fh_bmu0nTwaa-fKzpnA7GnDHSik5"
   },
   {
     "ID": 416191,
@@ -69,7 +77,8 @@ var data = [
     "Content": "美国甜妞儿，新生代女演员，代表作《妈妈咪呀》《小红帽》。",
     "Url": "http://news.mtime.com/pix/2014/01/01/416191.html",
     "SmallPicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162705.54194758_75X75.jpg",
-    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162705.54194758_160X160.jpg"
+    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162705.54194758_160X160.jpg",
+    "quniuPic": "http://lyuehh-img.qiniudn.com/Fl54gUpbW8vbaToe2cpVUU0Mi-_f"
   },
   {
     "ID": 416192,
@@ -77,7 +86,8 @@ var data = [
     "Content": "罗马尼亚的歌手、模特。",
     "Url": "http://news.mtime.com/pix/2014/01/01/416192.html",
     "SmallPicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162706.28069597_75X75.jpg",
-    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162706.28069597_160X160.jpg"
+    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162706.28069597_160X160.jpg",
+    "quniuPic": "http://lyuehh-img.qiniudn.com/Ft_VeRi4u4REIiTZYSMUfkb47tdB"
   },
   {
     "ID": 416193,
@@ -85,7 +95,8 @@ var data = [
     "Content": "2008年马来西亚世界小姐。",
     "Url": "http://news.mtime.com/pix/2014/01/01/416193.html",
     "SmallPicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162707.48359207_75X75.jpg",
-    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162707.48359207_160X160.jpg"
+    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162707.48359207_160X160.jpg",
+    "quniuPic": "http://lyuehh-img.qiniudn.com/FrjwvC59p0gz3Y6WOT0Ku755aUTX"
   },
   {
     "ID": 416194,
@@ -93,7 +104,8 @@ var data = [
     "Content": "",
     "Url": "http://news.mtime.com/pix/2014/01/01/416194.html",
     "SmallPicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162710.37759532_75X75.jpg",
-    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162710.37759532_160X160.jpg"
+    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162710.37759532_160X160.jpg",
+    "quniuPic": "http://lyuehh-img.qiniudn.com/Fh2Oms2CkWlG3dlsCl2D3mxdvN_d"
   },
   {
     "ID": 416195,
@@ -101,7 +113,8 @@ var data = [
     "Content": "墨西哥女演员。",
     "Url": "http://news.mtime.com/pix/2014/01/01/416195.html",
     "SmallPicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162712.92007079_75X75.jpg",
-    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162712.92007079_160X160.jpg"
+    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162712.92007079_160X160.jpg",
+    "quniuPic": "http://lyuehh-img.qiniudn.com/Fg2IefgtEPpXn45wVY0XHSa3lqIv"
   },
   {
     "ID": 416196,
@@ -109,7 +122,8 @@ var data = [
     "Content": "法国著名女主播，转型做演员后成为“吕克·贝松女郎”，代表作《阿黛拉的非凡冒险》。",
     "Url": "http://news.mtime.com/pix/2014/01/01/416196.html",
     "SmallPicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162714.39992097_75X75.jpg",
-    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162714.39992097_160X160.jpg"
+    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162714.39992097_160X160.jpg",
+    "quniuPic": "http://lyuehh-img.qiniudn.com/FplocXHIvnIcbzulTvFWgUaOrlvc"
   },
   {
     "ID": 416197,
@@ -117,7 +131,8 @@ var data = [
     "Content": "代表作《魔力之城》。",
     "Url": "http://news.mtime.com/pix/2014/01/01/416197.html",
     "SmallPicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162716.94644265_75X75.jpg",
-    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162716.94644265_160X160.jpg"
+    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162716.94644265_160X160.jpg",
+    "quniuPic": "http://lyuehh-img.qiniudn.com/FvhOIUv1MN265K4wkHPwtC-AQ2ia"
   },
   {
     "ID": 416198,
@@ -125,7 +140,8 @@ var data = [
     "Content": "中国当红女星。",
     "Url": "http://news.mtime.com/pix/2014/01/01/416198.html",
     "SmallPicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162718.54138131_75X75.jpg",
-    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162718.54138131_160X160.jpg"
+    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162718.54138131_160X160.jpg",
+    "quniuPic": "http://lyuehh-img.qiniudn.com/FsXNw7xctNAdVulWd2cJYDARG4SH"
   },
   {
     "ID": 416199,
@@ -133,7 +149,8 @@ var data = [
     "Content": "",
     "Url": "http://news.mtime.com/pix/2014/01/01/416199.html",
     "SmallPicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162719.20557168_75X75.jpg",
-    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162719.20557168_160X160.jpg"
+    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162719.20557168_160X160.jpg",
+    "quniuPic": "http://lyuehh-img.qiniudn.com/FisTbvr7W0PAMlKUwZIUBNUE3Ad-"
   },
   {
     "ID": 416200,
@@ -141,7 +158,8 @@ var data = [
     "Content": "",
     "Url": "http://news.mtime.com/pix/2014/01/01/416200.html",
     "SmallPicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162721.67501188_75X75.jpg",
-    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162721.67501188_160X160.jpg"
+    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162721.67501188_160X160.jpg",
+    "quniuPic": "http://lyuehh-img.qiniudn.com/FoR5WQ7cEGzFQw9-8f-F5lzeHXsq"
   },
   {
     "ID": 416201,
@@ -149,7 +167,8 @@ var data = [
     "Content": "代表作：《三个火枪手》。",
     "Url": "http://news.mtime.com/pix/2014/01/01/416201.html",
     "SmallPicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162723.62190242_75X75.jpg",
-    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162723.62190242_160X160.jpg"
+    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162723.62190242_160X160.jpg",
+    "quniuPic": "http://lyuehh-img.qiniudn.com/Fg6mCC3b40N7l1d9m7qJHO09Gpem"
   },
   {
     "ID": 416202,
@@ -157,7 +176,8 @@ var data = [
     "Content": "韩国女团After School成员。",
     "Url": "http://news.mtime.com/pix/2014/01/01/416202.html",
     "SmallPicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162725.62086419_75X75.jpg",
-    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162725.62086419_160X160.jpg"
+    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162725.62086419_160X160.jpg",
+    "quniuPic": "http://lyuehh-img.qiniudn.com/FmuNT8kbI2JcwvPfi6CV1lpRjQYx"
   },
   {
     "ID": 416203,
@@ -165,7 +185,8 @@ var data = [
     "Content": "",
     "Url": "http://news.mtime.com/pix/2014/01/01/416203.html",
     "SmallPicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162726.95361305_75X75.jpg",
-    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162726.95361305_160X160.jpg"
+    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162726.95361305_160X160.jpg",
+    "quniuPic": "http://lyuehh-img.qiniudn.com/FjdlNAEnBMUiB3DmkZLhJAR0cNPW"
   },
   {
     "ID": 416204,
@@ -173,7 +194,8 @@ var data = [
     "Content": "",
     "Url": "http://news.mtime.com/pix/2014/01/01/416204.html",
     "SmallPicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162727.69144684_75X75.jpg",
-    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162727.69144684_160X160.jpg"
+    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162727.69144684_160X160.jpg",
+    "quniuPic": "http://lyuehh-img.qiniudn.com/FuOFt6EcksTOfm91EdxBOAWk7NXw"
   },
   {
     "ID": 416205,
@@ -181,7 +203,8 @@ var data = [
     "Content": "代表作《妙笔生花》。",
     "Url": "http://news.mtime.com/pix/2014/01/01/416205.html",
     "SmallPicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162729.62322348_75X75.jpg",
-    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162729.62322348_160X160.jpg"
+    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162729.62322348_160X160.jpg",
+    "quniuPic": "http://lyuehh-img.qiniudn.com/FqHjCaETgAvzLSOvrTOEd-rFtThY"
   },
   {
     "ID": 416206,
@@ -189,7 +212,8 @@ var data = [
     "Content": "美国超模，作为2011年《体育画报》的泳装模特而闻名。",
     "Url": "http://news.mtime.com/pix/2014/01/01/416206.html",
     "SmallPicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162731.70731423_75X75.jpg",
-    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162731.70731423_160X160.jpg"
+    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162731.70731423_160X160.jpg",
+    "quniuPic": "http://lyuehh-img.qiniudn.com/Fp594NNU3yCMvHSpzkF_gNQpa1Xz"
   },
   {
     "ID": 416207,
@@ -197,7 +221,8 @@ var data = [
     "Content": "",
     "Url": "http://news.mtime.com/pix/2014/01/01/416207.html",
     "SmallPicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162733.40873478_75X75.jpg",
-    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162733.40873478_160X160.jpg"
+    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162733.40873478_160X160.jpg",
+    "quniuPic": "http://lyuehh-img.qiniudn.com/Ftp0ZBKryY3BDOE3bNIUIa6WOSXz"
   },
   {
     "ID": 416208,
@@ -205,7 +230,8 @@ var data = [
     "Content": "",
     "Url": "http://news.mtime.com/pix/2014/01/01/416208.html",
     "SmallPicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162736.26343675_75X75.jpg",
-    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162736.26343675_160X160.jpg"
+    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162736.26343675_160X160.jpg",
+    "quniuPic": "http://lyuehh-img.qiniudn.com/Fo19cZLMive7_CfghjdZS_yeWLgn"
   },
   {
     "ID": 416209,
@@ -213,7 +239,8 @@ var data = [
     "Content": "",
     "Url": "http://news.mtime.com/pix/2014/01/01/416209.html",
     "SmallPicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162738.87040646_75X75.jpg",
-    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162738.87040646_160X160.jpg"
+    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162738.87040646_160X160.jpg",
+    "quniuPic": "http://lyuehh-img.qiniudn.com/FnbpU0huTd5j4UBaqSPY5qTIlF0D"
   },
   {
     "ID": 416210,
@@ -221,7 +248,8 @@ var data = [
     "Content": "",
     "Url": "http://news.mtime.com/pix/2014/01/01/416210.html",
     "SmallPicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162739.27175300_75X75.jpg",
-    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162739.27175300_160X160.jpg"
+    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162739.27175300_160X160.jpg",
+    "quniuPic": "http://lyuehh-img.qiniudn.com/Fuki-Xt9kHVxe2CHERkspNmKet12"
   },
   {
     "ID": 416211,
@@ -229,7 +257,8 @@ var data = [
     "Content": "",
     "Url": "http://news.mtime.com/pix/2014/01/01/416211.html",
     "SmallPicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162741.39811899_75X75.jpg",
-    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162741.39811899_160X160.jpg"
+    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162741.39811899_160X160.jpg",
+    "quniuPic": "http://lyuehh-img.qiniudn.com/FlSNTajNOfwgmrllJORpPTF1LLgH"
   },
   {
     "ID": 416212,
@@ -237,7 +266,8 @@ var data = [
     "Content": "",
     "Url": "http://news.mtime.com/pix/2014/01/01/416212.html",
     "SmallPicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162743.69151770_75X75.jpg",
-    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162743.69151770_160X160.jpg"
+    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162743.69151770_160X160.jpg",
+    "quniuPic": "http://lyuehh-img.qiniudn.com/Fug3kqWRgtKCCoA4dx1MuQ6mfRw-"
   },
   {
     "ID": 416213,
@@ -245,7 +275,8 @@ var data = [
     "Content": "韩国人气女子组合“少女时代”成员。",
     "Url": "http://news.mtime.com/pix/2014/01/01/416213.html",
     "SmallPicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162746.97893436_75X75.jpg",
-    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162746.97893436_160X160.jpg"
+    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162746.97893436_160X160.jpg",
+    "quniuPic": "http://lyuehh-img.qiniudn.com/FlxBVQyJTRIFAN8QeAs0BWufbRw_"
   },
   {
     "ID": 416214,
@@ -253,7 +284,8 @@ var data = [
     "Content": "",
     "Url": "http://news.mtime.com/pix/2014/01/01/416214.html",
     "SmallPicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162749.64388646_75X75.jpg",
-    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162749.64388646_160X160.jpg"
+    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162749.64388646_160X160.jpg",
+    "quniuPic": "http://lyuehh-img.qiniudn.com/FudE5iJZQf26ZAtWFRkxHQwnVcHx"
   },
   {
     "ID": 416215,
@@ -261,7 +293,8 @@ var data = [
     "Content": "",
     "Url": "http://news.mtime.com/pix/2014/01/01/416215.html",
     "SmallPicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162751.61360923_75X75.jpg",
-    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162751.61360923_160X160.jpg"
+    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162751.61360923_160X160.jpg",
+    "quniuPic": "http://lyuehh-img.qiniudn.com/FtCYQW5TPj2sBYIJ9LkDhHppvfx3"
   },
   {
     "ID": 416216,
@@ -269,7 +302,8 @@ var data = [
     "Content": "68. 艾尔莎·霍斯卡 Elsa Hosk ",
     "Url": "http://news.mtime.com/pix/2014/01/01/416216.html",
     "SmallPicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162753.36886037_75X75.jpg",
-    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162753.36886037_160X160.jpg"
+    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162753.36886037_160X160.jpg",
+    "quniuPic": "http://lyuehh-img.qiniudn.com/Ftp4eCq6jvNe6JkWBXR7Z6hLuT1z"
   },
   {
     "ID": 416217,
@@ -277,7 +311,8 @@ var data = [
     "Content": "",
     "Url": "http://news.mtime.com/pix/2014/01/01/416217.html",
     "SmallPicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162755.10685551_75X75.jpg",
-    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162755.10685551_160X160.jpg"
+    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162755.10685551_160X160.jpg",
+    "quniuPic": "http://lyuehh-img.qiniudn.com/Fpu_7F7dUHWvDdw9P4v2L5AJO_Fq"
   },
   {
     "ID": 416218,
@@ -285,7 +320,8 @@ var data = [
     "Content": "",
     "Url": "http://news.mtime.com/pix/2014/01/01/416218.html",
     "SmallPicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162757.40695273_75X75.jpg",
-    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162757.40695273_160X160.jpg"
+    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162757.40695273_160X160.jpg",
+    "quniuPic": "http://lyuehh-img.qiniudn.com/FgUdNAbto3Nrg-iMu3eM_Qm6_n42"
   },
   {
     "ID": 416219,
@@ -293,7 +329,8 @@ var data = [
     "Content": "代表作《广告狂人》。",
     "Url": "http://news.mtime.com/pix/2014/01/01/416219.html",
     "SmallPicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162759.54993988_75X75.jpg",
-    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162759.54993988_160X160.jpg"
+    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162759.54993988_160X160.jpg",
+    "quniuPic": "http://lyuehh-img.qiniudn.com/FnSpDKXSbnJMWGFLlvB1JYW31JQf"
   },
   {
     "ID": 416220,
@@ -301,7 +338,8 @@ var data = [
     "Content": "",
     "Url": "http://news.mtime.com/pix/2014/01/01/416220.html",
     "SmallPicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162801.35360661_75X75.jpg",
-    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162801.35360661_160X160.jpg"
+    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162801.35360661_160X160.jpg",
+    "quniuPic": "http://lyuehh-img.qiniudn.com/FhFpnV8pM44QH5sxXkQp-V2HvMa_"
   },
   {
     "ID": 416221,
@@ -309,7 +347,8 @@ var data = [
     "Content": "Lizzy，韩国女团After School成员。",
     "Url": "http://news.mtime.com/pix/2014/01/01/416221.html",
     "SmallPicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162803.21168696_75X75.jpg",
-    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162803.21168696_160X160.jpg"
+    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162803.21168696_160X160.jpg",
+    "quniuPic": "http://lyuehh-img.qiniudn.com/FsLs6Bgkhgga7f1_2VFpNXv9lVFM"
   },
   {
     "ID": 416222,
@@ -317,7 +356,8 @@ var data = [
     "Content": "",
     "Url": "http://news.mtime.com/pix/2014/01/01/416222.html",
     "SmallPicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162805.59833268_75X75.jpg",
-    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162805.59833268_160X160.jpg"
+    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162805.59833268_160X160.jpg",
+    "quniuPic": "http://lyuehh-img.qiniudn.com/Fgt89hEyrDSEIfyWdMPJf19gZmxP"
   },
   {
     "ID": 416223,
@@ -325,7 +365,8 @@ var data = [
     "Content": "意大利不老女神。",
     "Url": "http://news.mtime.com/pix/2014/01/01/416223.html",
     "SmallPicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162806.83404213_75X75.jpg",
-    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162806.83404213_160X160.jpg"
+    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162806.83404213_160X160.jpg",
+    "quniuPic": "http://lyuehh-img.qiniudn.com/FqXdSjAjuQUMT4REBOyUS5k-wil9"
   },
   {
     "ID": 416224,
@@ -333,7 +374,8 @@ var data = [
     "Content": "",
     "Url": "http://news.mtime.com/pix/2014/01/01/416224.html",
     "SmallPicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162808.14448594_75X75.jpg",
-    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162808.14448594_160X160.jpg"
+    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162808.14448594_160X160.jpg",
+    "quniuPic": "http://lyuehh-img.qiniudn.com/FnTLZu997GMt1u0XIbgZs85VI6Ja"
   },
   {
     "ID": 416225,
@@ -341,7 +383,8 @@ var data = [
     "Content": "澳大利亚女演员，好莱坞当代“甜心”。",
     "Url": "http://news.mtime.com/pix/2014/01/01/416225.html",
     "SmallPicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162810.16501067_75X75.jpg",
-    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162810.16501067_160X160.jpg"
+    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162810.16501067_160X160.jpg",
+    "quniuPic": "http://lyuehh-img.qiniudn.com/FpCJ0Qe2JgACwmiVuF0L1HwF-Gs5"
   },
   {
     "ID": 416226,
@@ -349,7 +392,8 @@ var data = [
     "Content": "",
     "Url": "http://news.mtime.com/pix/2014/01/01/416226.html",
     "SmallPicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162811.83580876_75X75.jpg",
-    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162811.83580876_160X160.jpg"
+    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162811.83580876_160X160.jpg",
+    "quniuPic": "http://lyuehh-img.qiniudn.com/FmHSkWHsXQaJ49FFlpu_89hPe8Jz"
   },
   {
     "ID": 416227,
@@ -357,7 +401,8 @@ var data = [
     "Content": "",
     "Url": "http://news.mtime.com/pix/2014/01/01/416227.html",
     "SmallPicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162813.30193922_75X75.jpg",
-    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162813.30193922_160X160.jpg"
+    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162813.30193922_160X160.jpg",
+    "quniuPic": "http://lyuehh-img.qiniudn.com/FmRa7OfZ3vlWnvYY9JlvwKr0jAXt"
   },
   {
     "ID": 416228,
@@ -365,7 +410,8 @@ var data = [
     "Content": "",
     "Url": "http://news.mtime.com/pix/2014/01/01/416228.html",
     "SmallPicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162815.54658290_75X75.jpg",
-    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162815.54658290_160X160.jpg"
+    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162815.54658290_160X160.jpg",
+    "quniuPic": "http://lyuehh-img.qiniudn.com/FvtDSF8vMFPFA_kEero-EwZNRfqU"
   },
   {
     "ID": 416229,
@@ -373,7 +419,8 @@ var data = [
     "Content": "英国女演员，奥斯卡影后。",
     "Url": "http://news.mtime.com/pix/2014/01/01/416229.html",
     "SmallPicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162817.39812376_75X75.jpg",
-    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162817.39812376_160X160.jpg"
+    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162817.39812376_160X160.jpg",
+    "quniuPic": "http://lyuehh-img.qiniudn.com/FiO-tPd-mEYjqwxChf2D0hEXGPVM"
   },
   {
     "ID": 416230,
@@ -381,7 +428,8 @@ var data = [
     "Content": "",
     "Url": "http://news.mtime.com/pix/2014/01/01/416230.html",
     "SmallPicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162819.41812440_75X75.jpg",
-    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162819.41812440_160X160.jpg"
+    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162819.41812440_160X160.jpg",
+    "quniuPic": "http://lyuehh-img.qiniudn.com/FqY3-vlDg1-c3LyTlRMwpjR1VSCo"
   },
   {
     "ID": 416231,
@@ -389,7 +437,8 @@ var data = [
     "Content": "《贫民窟的百万富翁》中的印度美女。",
     "Url": "http://news.mtime.com/pix/2014/01/01/416231.html",
     "SmallPicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162821.27610441_75X75.jpg",
-    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162821.27610441_160X160.jpg"
+    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162821.27610441_160X160.jpg",
+    "quniuPic": "http://lyuehh-img.qiniudn.com/Fq5Y9pulvaAr0NdUxz5GakPosX6P"
   },
   {
     "ID": 416232,
@@ -397,7 +446,8 @@ var data = [
     "Content": "",
     "Url": "http://news.mtime.com/pix/2014/01/01/416232.html",
     "SmallPicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162824.68076424_75X75.jpg",
-    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162824.68076424_160X160.jpg"
+    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162824.68076424_160X160.jpg",
+    "quniuPic": "http://lyuehh-img.qiniudn.com/FrhSC4-VvyS5UrxE-yYAnh758xxU"
   },
   {
     "ID": 416233,
@@ -405,7 +455,8 @@ var data = [
     "Content": "英伦玫瑰，“007”丹尼尔·克雷格的妻子。",
     "Url": "http://news.mtime.com/pix/2014/01/01/416233.html",
     "SmallPicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162826.55327845_75X75.jpg",
-    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162826.55327845_160X160.jpg"
+    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162826.55327845_160X160.jpg",
+    "quniuPic": "http://lyuehh-img.qiniudn.com/FuFndOy-7trJgfRbhhFFmgorb_h5"
   },
   {
     "ID": 416234,
@@ -413,7 +464,8 @@ var data = [
     "Content": "",
     "Url": "http://news.mtime.com/pix/2014/01/01/416234.html",
     "SmallPicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162827.55652520_75X75.jpg",
-    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162827.55652520_160X160.jpg"
+    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162827.55652520_160X160.jpg",
+    "quniuPic": "http://lyuehh-img.qiniudn.com/FqsJ2jELRS3mBSszt0MgfPreFkdU"
   },
   {
     "ID": 416235,
@@ -421,7 +473,8 @@ var data = [
     "Content": "",
     "Url": "http://news.mtime.com/pix/2014/01/01/416235.html",
     "SmallPicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162829.87285621_75X75.jpg",
-    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162829.87285621_160X160.jpg"
+    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162829.87285621_160X160.jpg",
+    "quniuPic": "http://lyuehh-img.qiniudn.com/FhBb2cwX4RGbgSjx56STSb0TspVQ"
   },
   {
     "ID": 416236,
@@ -429,7 +482,8 @@ var data = [
     "Content": "美国女星，新一代“蜘蛛侠”安德鲁·加菲尔德的女友。",
     "Url": "http://news.mtime.com/pix/2014/01/01/416236.html",
     "SmallPicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162830.66122496_75X75.jpg",
-    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162830.66122496_160X160.jpg"
+    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162830.66122496_160X160.jpg",
+    "quniuPic": "http://lyuehh-img.qiniudn.com/Fnf6wMr08NRuLSxQL_DYHx68i9pE"
   },
   {
     "ID": 416237,
@@ -437,7 +491,8 @@ var data = [
     "Content": "童星出身，因“黑天鹅”一角而走红，现为艾什顿·库彻的女友。",
     "Url": "http://news.mtime.com/pix/2014/01/01/416237.html",
     "SmallPicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162832.47499882_75X75.jpg",
-    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162832.47499882_160X160.jpg"
+    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162832.47499882_160X160.jpg",
+    "quniuPic": "http://lyuehh-img.qiniudn.com/FloXuqHztUK0iXMace4tGKo3Ft_Z"
   },
   {
     "ID": 416238,
@@ -445,7 +500,8 @@ var data = [
     "Content": "",
     "Url": "http://news.mtime.com/pix/2014/01/01/416238.html",
     "SmallPicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162833.12358335_75X75.jpg",
-    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162833.12358335_160X160.jpg"
+    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162833.12358335_160X160.jpg",
+    "quniuPic": "http://lyuehh-img.qiniudn.com/FnVbnsc6D2MGeKaaMBAd3-ttfw48"
   },
   {
     "ID": 416239,
@@ -453,7 +509,8 @@ var data = [
     "Content": "",
     "Url": "http://news.mtime.com/pix/2014/01/01/416239.html",
     "SmallPicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162836.43809446_75X75.jpg",
-    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162836.43809446_160X160.jpg"
+    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162836.43809446_160X160.jpg",
+    "quniuPic": "http://lyuehh-img.qiniudn.com/FmGgPsU92sieVhsPnNtpYoxU738a"
   },
   {
     "ID": 416240,
@@ -461,7 +518,8 @@ var data = [
     "Content": "",
     "Url": "http://news.mtime.com/pix/2014/01/01/416240.html",
     "SmallPicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162838.32931031_75X75.jpg",
-    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162838.32931031_160X160.jpg"
+    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162838.32931031_160X160.jpg",
+    "quniuPic": "http://lyuehh-img.qiniudn.com/Frmqkp0HyEdBrtQr0np0J7Oopwou"
   },
   {
     "ID": 416241,
@@ -469,7 +527,8 @@ var data = [
     "Content": "",
     "Url": "http://news.mtime.com/pix/2014/01/01/416241.html",
     "SmallPicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162839.99504715_75X75.jpg",
-    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162839.99504715_160X160.jpg"
+    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162839.99504715_160X160.jpg",
+    "quniuPic": "http://lyuehh-img.qiniudn.com/FqKWoNA0tvtyo2FQSVGIsLU4bSun"
   },
   {
     "ID": 416242,
@@ -477,7 +536,8 @@ var data = [
     "Content": "英国女星，代表作《裂缝》。",
     "Url": "http://news.mtime.com/pix/2014/01/01/416242.html",
     "SmallPicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162840.29558940_75X75.jpg",
-    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162840.29558940_160X160.jpg"
+    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162840.29558940_160X160.jpg",
+    "quniuPic": "http://lyuehh-img.qiniudn.com/FkxSMSK5OVr7msxYZF0sqen-OZk9"
   },
   {
     "ID": 416243,
@@ -485,7 +545,8 @@ var data = [
     "Content": "长相甜美可人的日本超人气模特。",
     "Url": "http://news.mtime.com/pix/2014/01/01/416243.html",
     "SmallPicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162843.60251300_75X75.jpg",
-    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162843.60251300_160X160.jpg"
+    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162843.60251300_160X160.jpg",
+    "quniuPic": "http://lyuehh-img.qiniudn.com/FnZ_a3Bj6mVB6xDpGblAyVH24Rj9"
   },
   {
     "ID": 416244,
@@ -493,7 +554,8 @@ var data = [
     "Content": "美国90后奥斯卡影后，凭《冬天的骨头》为人所知，因《饥饿游戏》而全球爆红，以《乌云背后的幸福线》夺得小金人。",
     "Url": "http://news.mtime.com/pix/2014/01/01/416244.html",
     "SmallPicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162845.16156400_75X75.jpg",
-    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162845.16156400_160X160.jpg"
+    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162845.16156400_160X160.jpg",
+    "quniuPic": "http://lyuehh-img.qiniudn.com/Fp01CF8Tv-LfIPQDy_0ZFOmIYWvy"
   },
   {
     "ID": 416245,
@@ -501,7 +563,8 @@ var data = [
     "Content": "韩国国民级solo歌手，被韩国人民亲切的称为“国民妹妹”。",
     "Url": "http://news.mtime.com/pix/2014/01/01/416245.html",
     "SmallPicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162847.44443592_75X75.jpg",
-    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162847.44443592_160X160.jpg"
+    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162847.44443592_160X160.jpg",
+    "quniuPic": "http://lyuehh-img.qiniudn.com/Fg0OpWefTsyIW1zIcSV-894U_63R"
   },
   {
     "ID": 416246,
@@ -509,7 +572,8 @@ var data = [
     "Content": "英伦玫瑰，导演伦·怀斯曼的妻子。",
     "Url": "http://news.mtime.com/pix/2014/01/01/416246.html",
     "SmallPicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162849.75608547_75X75.jpg",
-    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162849.75608547_160X160.jpg"
+    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162849.75608547_160X160.jpg",
+    "quniuPic": "http://lyuehh-img.qiniudn.com/FsMDcK6NpdcIVmGGInZ-M6JXp0MO"
   },
   {
     "ID": 416247,
@@ -517,7 +581,8 @@ var data = [
     "Content": "美国黑人女星，代表作：《丑闻》《被解放的迪亚戈》。",
     "Url": "http://news.mtime.com/pix/2014/01/01/416247.html",
     "SmallPicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162850.57690394_75X75.jpg",
-    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162850.57690394_160X160.jpg"
+    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162850.57690394_160X160.jpg",
+    "quniuPic": "http://lyuehh-img.qiniudn.com/FrgfKAY_kh3nyXnHKM4I2ux8Ukdj"
   },
   {
     "ID": 416248,
@@ -525,7 +590,8 @@ var data = [
     "Content": "",
     "Url": "http://news.mtime.com/pix/2014/01/01/416248.html",
     "SmallPicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162852.98023752_75X75.jpg",
-    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162852.98023752_160X160.jpg"
+    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162852.98023752_160X160.jpg",
+    "quniuPic": "http://lyuehh-img.qiniudn.com/FsezTLhPkEfG1yzYbkcW3uATwdww"
   },
   {
     "ID": 416249,
@@ -533,7 +599,8 @@ var data = [
     "Content": "",
     "Url": "http://news.mtime.com/pix/2014/01/01/416249.html",
     "SmallPicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162854.61082333_75X75.jpg",
-    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162854.61082333_160X160.jpg"
+    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162854.61082333_160X160.jpg",
+    "quniuPic": "http://lyuehh-img.qiniudn.com/Fgi_Pw0SsQkojFKV2vn9KbfpwgUa"
   },
   {
     "ID": 416250,
@@ -541,7 +608,8 @@ var data = [
     "Content": "",
     "Url": "http://news.mtime.com/pix/2014/01/01/416250.html",
     "SmallPicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162857.68304768_75X75.jpg",
-    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162857.68304768_160X160.jpg"
+    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162857.68304768_160X160.jpg",
+    "quniuPic": "http://lyuehh-img.qiniudn.com/Fng6bSCVHEDUNXDigRJWTYatkev2"
   },
   {
     "ID": 416251,
@@ -549,7 +617,8 @@ var data = [
     "Content": "奥斯卡影后，代表作《这个杀手不太冷》《黑天鹅》。",
     "Url": "http://news.mtime.com/pix/2014/01/01/416251.html",
     "SmallPicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162859.66107141_75X75.jpg",
-    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162859.66107141_160X160.jpg"
+    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162859.66107141_160X160.jpg",
+    "quniuPic": "http://lyuehh-img.qiniudn.com/FlDr9nACfTSLBYs308bGXvVkycne"
   },
   {
     "ID": 416252,
@@ -557,7 +626,8 @@ var data = [
     "Content": "",
     "Url": "http://news.mtime.com/pix/2014/01/01/416252.html",
     "SmallPicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162901.47259792_75X75.jpg",
-    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162901.47259792_160X160.jpg"
+    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162901.47259792_160X160.jpg",
+    "quniuPic": "http://lyuehh-img.qiniudn.com/FhLJV_7MaCeVxZgGFvIu9iSw3M7I"
   },
   {
     "ID": 416253,
@@ -565,7 +635,8 @@ var data = [
     "Content": "加拿大女演员，出演过《大都市》《无尽的世界》《抗体》《梦宅诡影》。",
     "Url": "http://news.mtime.com/pix/2014/01/01/416253.html",
     "SmallPicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162903.20586317_75X75.jpg",
-    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162903.20586317_160X160.jpg"
+    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162903.20586317_160X160.jpg",
+    "quniuPic": "http://lyuehh-img.qiniudn.com/Fok0h7aa3jZZNxaWtHM5NVKtKQ_I"
   },
   {
     "ID": 416254,
@@ -573,7 +644,8 @@ var data = [
     "Content": "中国女星，现任MTV学英语主持人。",
     "Url": "http://news.mtime.com/pix/2014/01/01/416254.html",
     "SmallPicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162905.34742724_75X75.jpg",
-    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162905.34742724_160X160.jpg"
+    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162905.34742724_160X160.jpg",
+    "quniuPic": "http://lyuehh-img.qiniudn.com/Fg422n0QrXK-UifHryKV9X2YVpea"
   },
   {
     "ID": 416255,
@@ -581,7 +653,8 @@ var data = [
     "Content": "",
     "Url": "http://news.mtime.com/pix/2014/01/01/416255.html",
     "SmallPicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162907.70609358_75X75.jpg",
-    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162907.70609358_160X160.jpg"
+    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162907.70609358_160X160.jpg",
+    "quniuPic": "http://lyuehh-img.qiniudn.com/Fuue_Xmr-s4yidaKZFTRLM3KiTxt"
   },
   {
     "ID": 416256,
@@ -589,7 +662,8 @@ var data = [
     "Content": "",
     "Url": "http://news.mtime.com/pix/2014/01/01/416256.html",
     "SmallPicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162909.32613200_75X75.jpg",
-    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162909.32613200_160X160.jpg"
+    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162909.32613200_160X160.jpg",
+    "quniuPic": "http://lyuehh-img.qiniudn.com/FgOT8E3KZtIuMrW2HCTxUqf_3tiG"
   },
   {
     "ID": 416257,
@@ -597,7 +671,8 @@ var data = [
     "Content": "德普现任女友，曾是好莱坞最性感“蕾丝边”女星，代表作《莱姆酒日记》。",
     "Url": "http://news.mtime.com/pix/2014/01/01/416257.html",
     "SmallPicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162911.65412093_75X75.jpg",
-    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162911.65412093_160X160.jpg"
+    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162911.65412093_160X160.jpg",
+    "quniuPic": "http://lyuehh-img.qiniudn.com/FnmtU6BPhN6nSeXT7MtVW_6uzrvd"
   },
   {
     "ID": 416258,
@@ -605,7 +680,8 @@ var data = [
     "Content": "这位肯尼亚女演员是今年颁奖季的热门人物，年度力作《为奴十二年》。",
     "Url": "http://news.mtime.com/pix/2014/01/01/416258.html",
     "SmallPicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162913.69890994_75X75.jpg",
-    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162913.69890994_160X160.jpg"
+    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162913.69890994_160X160.jpg",
+    "quniuPic": "http://lyuehh-img.qiniudn.com/FrIHDwgzDnTOaxqHOBFlloMToSFx"
   },
   {
     "ID": 416259,
@@ -613,7 +689,8 @@ var data = [
     "Content": "法国新生代女星，年度力作《阿黛尔的生活》。",
     "Url": "http://news.mtime.com/pix/2014/01/01/416259.html",
     "SmallPicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162916.79166931_75X75.jpg",
-    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162916.79166931_160X160.jpg"
+    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162916.79166931_160X160.jpg",
+    "quniuPic": "http://lyuehh-img.qiniudn.com/FsUohipjoJj3K0LDuSh2MD676Qst"
   },
   {
     "ID": 416260,
@@ -621,7 +698,8 @@ var data = [
     "Content": "韩国超自然美女，年度力作《一代宗师》。",
     "Url": "http://news.mtime.com/pix/2014/01/01/416260.html",
     "SmallPicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162920.25190040_75X75.jpg",
-    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162920.25190040_160X160.jpg"
+    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162920.25190040_160X160.jpg",
+    "quniuPic": "http://lyuehh-img.qiniudn.com/Fp_45fnR5tt2kP6TdhQZCGcucJ5o"
   },
   {
     "ID": 416261,
@@ -629,7 +707,8 @@ var data = [
     "Content": "英国女星，出演过《卡梅洛特》《雪场女孩》《圣城风云》。",
     "Url": "http://news.mtime.com/pix/2014/01/01/416261.html",
     "SmallPicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162921.43208448_75X75.jpg",
-    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162921.43208448_160X160.jpg"
+    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162921.43208448_160X160.jpg",
+    "quniuPic": "http://lyuehh-img.qiniudn.com/FoiU-Y4-tLu4zljgcKW_6NoDJEmP"
   },
   {
     "ID": 416262,
@@ -637,7 +716,8 @@ var data = [
     "Content": "",
     "Url": "http://news.mtime.com/pix/2014/01/01/416262.html",
     "SmallPicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162924.68789875_75X75.jpg",
-    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162924.68789875_160X160.jpg"
+    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162924.68789875_160X160.jpg",
+    "quniuPic": "http://lyuehh-img.qiniudn.com/FpZPnj_-iOIzdnhKLe-g8RWIgS7G"
   },
   {
     "ID": 416263,
@@ -645,7 +725,8 @@ var data = [
     "Content": "新一代“白雪公主”，著名星二代，其父是英国歌星菲尔·柯林斯。",
     "Url": "http://news.mtime.com/pix/2014/01/01/416263.html",
     "SmallPicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162926.45705250_75X75.jpg",
-    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162926.45705250_160X160.jpg"
+    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162926.45705250_160X160.jpg",
+    "quniuPic": "http://lyuehh-img.qiniudn.com/FvZd4rVTg2U43CuR0SakWKO2YERS"
   },
   {
     "ID": 416264,
@@ -653,7 +734,8 @@ var data = [
     "Content": "韩国人气女子组合“少女时代”成员，本名郑秀妍。",
     "Url": "http://news.mtime.com/pix/2014/01/01/416264.html",
     "SmallPicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162928.48868326_75X75.jpg",
-    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162928.48868326_160X160.jpg"
+    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162928.48868326_160X160.jpg",
+    "quniuPic": "http://lyuehh-img.qiniudn.com/Fn7q1R6sYWHErY16Lr_vFCmUjNEf"
   },
   {
     "ID": 416265,
@@ -661,7 +743,8 @@ var data = [
     "Content": "",
     "Url": "http://news.mtime.com/pix/2014/01/01/416265.html",
     "SmallPicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162930.56256650_75X75.jpg",
-    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162930.56256650_160X160.jpg"
+    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162930.56256650_160X160.jpg",
+    "quniuPic": "http://lyuehh-img.qiniudn.com/FqBZM_XVSvXhLlESho8iDMC7NftV"
   },
   {
     "ID": 416266,
@@ -669,7 +752,8 @@ var data = [
     "Content": "",
     "Url": "http://news.mtime.com/pix/2014/01/01/416266.html",
     "SmallPicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162931.60399461_75X75.jpg",
-    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162931.60399461_160X160.jpg"
+    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162931.60399461_160X160.jpg",
+    "quniuPic": "http://lyuehh-img.qiniudn.com/Fu7XbPOU5ktxdolGXvS-W7xZU463"
   },
   {
     "ID": 416267,
@@ -677,7 +761,8 @@ var data = [
     "Content": "2008年瑞典达人总冠军，现在是瑞典的经典小歌手之一。",
     "Url": "http://news.mtime.com/pix/2014/01/01/416267.html",
     "SmallPicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162933.40086902_75X75.jpg",
-    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162933.40086902_160X160.jpg"
+    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162933.40086902_160X160.jpg",
+    "quniuPic": "http://lyuehh-img.qiniudn.com/FtaeTCT4VRbHRsMMuJdqs9vVpPdO"
   },
   {
     "ID": 416268,
@@ -685,7 +770,8 @@ var data = [
     "Content": "",
     "Url": "http://news.mtime.com/pix/2014/01/01/416268.html",
     "SmallPicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162937.61062137_75X75.jpg",
-    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162937.61062137_160X160.jpg"
+    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162937.61062137_160X160.jpg",
+    "quniuPic": "http://lyuehh-img.qiniudn.com/Fsmni6vvkW4LXM9XVGOzV3A8mjgc"
   },
   {
     "ID": 416269,
@@ -693,7 +779,8 @@ var data = [
     "Content": "美国女演员，出演过《废柴联盟》《广告狂人》《惊声尖叫4》。",
     "Url": "http://news.mtime.com/pix/2014/01/01/416269.html",
     "SmallPicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162939.19839554_75X75.jpg",
-    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162939.19839554_160X160.jpg"
+    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162939.19839554_160X160.jpg",
+    "quniuPic": "http://lyuehh-img.qiniudn.com/Fl0FQ4-CN4Mr6HAuoa0b1uy1x20n"
   },
   {
     "ID": 416270,
@@ -701,7 +788,8 @@ var data = [
     "Content": "",
     "Url": "http://news.mtime.com/pix/2014/01/01/416270.html",
     "SmallPicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162941.84606991_75X75.jpg",
-    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162941.84606991_160X160.jpg"
+    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162941.84606991_160X160.jpg",
+    "quniuPic": "http://lyuehh-img.qiniudn.com/FkTy7Jz0W4Hac1yjoynunq1Xq0OT"
   },
   {
     "ID": 416271,
@@ -709,7 +797,8 @@ var data = [
     "Content": "长寿日间肥皂剧《All My Children》女演员，并客串多部美剧。",
     "Url": "http://news.mtime.com/pix/2014/01/01/416271.html",
     "SmallPicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162943.20323627_75X75.jpg",
-    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162943.20323627_160X160.jpg"
+    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162943.20323627_160X160.jpg",
+    "quniuPic": "http://lyuehh-img.qiniudn.com/FtKsBSfGOa26ymDjGrNs-vSdE-OA"
   },
   {
     "ID": 416272,
@@ -717,7 +806,8 @@ var data = [
     "Content": "",
     "Url": "http://news.mtime.com/pix/2014/01/01/416272.html",
     "SmallPicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162944.56290254_75X75.jpg",
-    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162944.56290254_160X160.jpg"
+    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162944.56290254_160X160.jpg",
+    "quniuPic": "http://lyuehh-img.qiniudn.com/FncQurzZ97oLzRYrSGT_cZv_Sja1"
   },
   {
     "ID": 416273,
@@ -725,7 +815,8 @@ var data = [
     "Content": "",
     "Url": "http://news.mtime.com/pix/2014/01/01/416273.html",
     "SmallPicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162946.91523989_75X75.jpg",
-    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162946.91523989_160X160.jpg"
+    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162946.91523989_160X160.jpg",
+    "quniuPic": "http://lyuehh-img.qiniudn.com/FkoN3BAjfrovdfhzzov6wL-RhCMZ"
   },
   {
     "ID": 416274,
@@ -733,7 +824,8 @@ var data = [
     "Content": "《唐顿庄园》“三小姐茜珀”的扮演者。",
     "Url": "http://news.mtime.com/pix/2014/01/01/416274.html",
     "SmallPicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162949.59054164_75X75.jpg",
-    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162949.59054164_160X160.jpg"
+    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162949.59054164_160X160.jpg",
+    "quniuPic": "http://lyuehh-img.qiniudn.com/FoIFp2mWiALNFb7zfbnxccTPH57Y"
   },
   {
     "ID": 416275,
@@ -741,7 +833,8 @@ var data = [
     "Content": "",
     "Url": "http://news.mtime.com/pix/2014/01/01/416275.html",
     "SmallPicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162950.24675662_75X75.jpg",
-    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162950.24675662_160X160.jpg"
+    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162950.24675662_160X160.jpg",
+    "quniuPic": "http://lyuehh-img.qiniudn.com/Fr7j1jFk0IS-V-j_KocWqX35uF13"
   },
   {
     "ID": 416276,
@@ -749,7 +842,8 @@ var data = [
     "Content": "英国童星，小魔女“赫敏”扮演者，年度力作《珠光宝气》。",
     "Url": "http://news.mtime.com/pix/2014/01/01/416276.html",
     "SmallPicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162952.86502082_75X75.jpg",
-    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162952.86502082_160X160.jpg"
+    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162952.86502082_160X160.jpg",
+    "quniuPic": "http://lyuehh-img.qiniudn.com/FroNV_fMoEI7dKWxBPNwderlKf-7"
   },
   {
     "ID": 416277,
@@ -757,7 +851,8 @@ var data = [
     "Content": "德国队中场萨米·赫迪拉的超模新女友，德国超模新秀大赛的冠军。",
     "Url": "http://news.mtime.com/pix/2014/01/01/416277.html",
     "SmallPicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162954.83730796_75X75.jpg",
-    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162954.83730796_160X160.jpg"
+    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162954.83730796_160X160.jpg",
+    "quniuPic": "http://lyuehh-img.qiniudn.com/FsSS8TO-Llma0n3TAemBjpOAV8XZ"
   },
   {
     "ID": 416278,
@@ -765,7 +860,8 @@ var data = [
     "Content": "挪威女歌手。",
     "Url": "http://news.mtime.com/pix/2014/01/01/416278.html",
     "SmallPicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162956.57180777_75X75.jpg",
-    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162956.57180777_160X160.jpg"
+    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162956.57180777_160X160.jpg",
+    "quniuPic": "http://lyuehh-img.qiniudn.com/FqT95cmq3z128n9IXrzX8vR6UdZ-"
   },
   {
     "ID": 416279,
@@ -773,7 +869,8 @@ var data = [
     "Content": "美国混血童星，有一半的巴西血统。",
     "Url": "http://news.mtime.com/pix/2014/01/01/416279.html",
     "SmallPicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162957.20191726_75X75.jpg",
-    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162957.20191726_160X160.jpg"
+    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/162957.20191726_160X160.jpg",
+    "quniuPic": "http://lyuehh-img.qiniudn.com/FkI3vv0NBGWplCBR2tqjJdgqjqUL"
   },
   {
     "ID": 416280,
@@ -781,7 +878,8 @@ var data = [
     "Content": "美剧《冰与火之歌》中“龙女”扮演者。",
     "Url": "http://news.mtime.com/pix/2014/01/01/416280.html",
     "SmallPicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/163000.95924512_75X75.jpg",
-    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/163000.95924512_160X160.jpg"
+    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/163000.95924512_160X160.jpg",
+    "quniuPic": "http://lyuehh-img.qiniudn.com/FtxWvqWC937_ApSVl2azwMbWI9Nu"
   },
   {
     "ID": 416281,
@@ -789,7 +887,8 @@ var data = [
     "Content": "美国童星，因扮演《海扁王》中的“超杀女”一角而爆红。",
     "Url": "http://news.mtime.com/pix/2014/01/01/416281.html",
     "SmallPicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/163002.13682976_75X75.jpg",
-    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/163002.13682976_160X160.jpg"
+    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/163002.13682976_160X160.jpg",
+    "quniuPic": "http://lyuehh-img.qiniudn.com/FiBP7GpacX7Tw0jLTQzSG-YUt510"
   },
   {
     "ID": 416282,
@@ -797,7 +896,8 @@ var data = [
     "Content": "韩国女团After School成员。",
     "Url": "http://news.mtime.com/pix/2014/01/01/416282.html",
     "SmallPicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/163005.89643779_75X75.jpg",
-    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/163005.89643779_160X160.jpg"
+    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/163005.89643779_160X160.jpg",
+    "quniuPic": "http://lyuehh-img.qiniudn.com/Fkbt3p7HxWX8o3jl1n6KdAmyg96l"
   },
   {
     "ID": 416283,
@@ -805,6 +905,7 @@ var data = [
     "Content": "法兰西女星，奥斯卡影后。",
     "Url": "http://news.mtime.com/pix/2014/01/01/416283.html",
     "SmallPicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/163007.93163670_75X75.jpg",
-    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/163007.93163670_160X160.jpg"
+    "MiddlePicUrl": "http://img31.mtime.cn/CMS/Gallery/2014/01/01/163007.93163670_160X160.jpg",
+    "quniuPic": "http://lyuehh-img.qiniudn.com/FsPMUCEudi0QG5KN76Tw0sniZZV6"
   }
 ];

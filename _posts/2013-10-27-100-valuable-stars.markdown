@@ -14,9 +14,9 @@ categories: life
       <div class='m' ng-repeat="m in movies">
         {% raw %}
         <h3 ng-bind-template='{{ m.Title }}'></h3>
+        <img ng-src='{{ m.quniuPic }}'>
         {% endraw %}
         <div ng-bind-html-unsafe='m.Content'></div>
-        <img ng-src="MiddlePicUrl">
       </div>
     </div>
   </div>
