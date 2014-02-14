@@ -1,0 +1,23 @@
+---
+layout: post
+title: 2011-2014说说集合
+date: 2014-02-14 17:28
+comments: true
+categories: life
+---
+
+<script src="/js/shuoshuo.js" type="text/javascript"></script>
+
+## 以下是2011 ~ 2014.2 说说记录, 作为备份, 哈哈
+
+<div ng-app="app">
+  <div class="container">
+    <div ng-controller="mainCtrl">
+      <div class='m shuo' ng-repeat="m in movies">
+        {% raw %}
+        <div>{{ m.content }} <span class="time"> {{ m.time*1000 | date:'yyyy-MM-dd HH:mm:ss' }}<span></div>
+        {% endraw %}
+      </div>
+    </div>
+  </div>
+</div>
