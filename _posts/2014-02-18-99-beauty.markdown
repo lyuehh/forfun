@@ -1,0 +1,23 @@
+---
+layout: post
+title: 99位全球性感女性
+date: 2014-02-18 20:31
+comments: true
+categories: life
+---
+
+<script src="/js/99-beauty.js" type="text/javascript"></script>
+
+<div ng-app="app">
+  <div class="container">
+    <div ng-controller="mainCtrl">
+      <div class='m' ng-repeat="m in movies">
+        {% raw %}
+        <h3 ng-bind-template='{{ m.Title }}'></h3>
+        <img ng-src='{{ m.quniuPic }}'>
+        <div ng-bind-html-unsafe='m.Content'></div>
+        {% endraw %}
+      </div>
+    </div>
+  </div>
+</div>
